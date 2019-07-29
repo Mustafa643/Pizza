@@ -14,4 +14,12 @@
 ##### git clone 
 #### Open the folder where the cloned repository is save
 
+## Technologies Used
+
+ #### HTML was used in making the skeleton of the website.
+#### CSS was used in styling the document.
+#### Javascript was used in making the webpage responsive.
+#### Atom was the source code editor of choice.
+#### Git and Github were used as my local and online repositories respectively.
+
 
