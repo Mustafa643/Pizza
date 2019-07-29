@@ -11,7 +11,7 @@
  #### Open this link on a supported web broser to interract with the application:  To view the source code :
  ##### install Atom/Visual studio code https://github.com/Mustafa643/Pizza/tree/master
  ##### git init
-##### git clone 
+##### git clone  https://github.com/Mustafa643/Pizza/tree/master
 #### Open the folder where the cloned repository is save
 
 ## Technologies Used
