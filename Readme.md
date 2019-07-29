@@ -22,4 +22,11 @@
 #### Atom was the source code editor of choice.
 #### Git and Github were used as my local and online repositories respectively.
 
+## Support and contact details
+ #### Email : ma5755333@gmail.com
+
+ ## LISENCE 
+ ### MIT
+
+
 
