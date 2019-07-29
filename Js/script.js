@@ -49,26 +49,18 @@ $('.btn.order').click(function() {
     $(".btn.add-pizza").hide();
     $(".btn.check-out").hide();
     $(".additional-info").show();
-    $(".btn.yes").show();
-    $(".btn.no").show();
     $(".additional-info .location").hide();
     grandTotal = grandTotal + total;
 
     $(".additional-info h3 span").html(grandTotal);
   });
 
-  $(".btn.yes").click(function() {
     $(".additional-info h5").hide();
-    $(".btn.yes").hide();
-    $(".btn.no").hide();
     $(".additional-info .location").show();
     $(".additional-info h3 span").html(grandTotal + 200);
   });
 
-  $(".btn.no").click(function() {
     $(".additional-info h5").hide();
-    $(".btn.yes").hide();
-    $(".btn.no").hide();
     $(".additional-info .location").show();
   });
 
